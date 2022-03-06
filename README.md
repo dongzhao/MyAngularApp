@@ -7,3 +7,9 @@ Angular plus ASP.NET Core
 4. Build the project 
 5. publish to folder 
 6. Run as Kestrel self-host Server by clicking the .exe such as MyAngularApp.exe
+## Enble IIS feature on windows
+1. go to Control panel.
+2. open 'Programs and Features'
+3. Click 'Turn Windows feature on and off'
+4. Tick 'Internet Information Services'
+5. Click OK to install IIS
